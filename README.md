@@ -1,5 +1,5 @@
 
-# Sentiment Analysis for Twitter data
+# Hate speech Detection for Twitter data 
 
 
 This repository contains a simple implementation of sentiment analysis on Twitter data using a Decision Tree Classifier. The goal is to classify tweets into three categories: hate speech, offensive language, and no hate or offensive language.
